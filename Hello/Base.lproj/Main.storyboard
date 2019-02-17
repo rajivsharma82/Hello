@@ -28,7 +28,7 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" lineBreakMode="tailTruncation" numberOfLines="10" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7LQ-Pw-xP5">
                                 <rect key="frame" x="62" y="385" width="228" height="237"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <string key="text">Hello Friends this is Rajeev currently I am learning Swift from CCC bootcamp and I am having fun while learing it. I will keep you posted about my journey once I finish this bootcamp. </string>
+                                <string key="text">Hello Friends this is Rajeev currently I am learning Swift and I am having fun while learning it. I will keep you posted about my journey once I finish Swift basics. </string>
                                 <fontDescription key="fontDescription" type="italicSystem" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
